@@ -1,6 +1,6 @@
 # representational_similarity
 
-Scripts I wrote to analyze neural data using searchlight representational similarity analysis (RSA), for an upcoming publication (Wasserman, Chakroff, Saxe, & Young, submitted). My previous commits on this project were made as @lypsychlab.
+Scripts I wrote to analyze neural data using searchlight representational similarity analysis (RSA), for an upcoming publication (Wasserman, Chakroff, Saxe, & Young, submitted). My previous commits on this project were made as [@lypsychlab](https://github.com/lypsychlab/).
 
 For this project we:
 
@@ -11,7 +11,7 @@ For this project we:
 
 Check out my non-scientist-friendly explanation of RSA under [about_methods](https://github.com/emily-wasserman/about_methods)! 
 
-Files: 
+## Files: 
 
 * **searchlight_base.m** - basic whole-brain searchlight RSA script 
 * **rsa_roi.m** - RSA script for voxels inside a masked ROI
