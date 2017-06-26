@@ -1,6 +1,6 @@
 # representational_similarity
 
-Scripts I wrote to analyze neural data using searchlight representational similarity analysis (RSA), for an upcoming publication (Wasserman, Chakroff, Saxe, & Young, submitted). My previous commits on this project were made as [@lypsychlab](https://github.com/lypsychlab/).
+Scripts I wrote to analyze neural data using searchlight representational similarity analysis (RSA), for an upcoming publication ([Wasserman, Chakroff, Saxe, & Young, submitted](http://moralitylab.bc.edu/wp-content/uploads/2017/06/moral_RSA_manuscript.pdf)). My previous commits on this project were made as [@lypsychlab](https://github.com/lypsychlab/).
 
 For this project we:
 
